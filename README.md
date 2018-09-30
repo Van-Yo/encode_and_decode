@@ -2,7 +2,9 @@
 ### personal understanding
 
 ## rule
+![rule](https://github.com/Van-Yo/encode_and_decode/blob/master/rule.png)
 
+## example(utf-8,unicode,gbk)
 ```
 # Author:Vanyo
 import sys
@@ -26,3 +28,5 @@ print(gbk_to_unicode)
 # 再由unicode转成utf-8
 print(gbk_to_unicode.encode("utf-8"))
 ```
+### result
+![result](https://github.com/Van-Yo/encode_and_decode/blob/master/result.png)
